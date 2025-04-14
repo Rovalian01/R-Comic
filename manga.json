@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Daigaku Nyuugakuji Kara Uwasa Sareteita Bishoujo San Shimai, Ikiwakareteita Gimai Datta",
+    "cover": "assets/images/manga/dnkusbs/cover.jpg",
+    "description": "Tiga orang yang masa kecilnya manja tumbuh menjadi gadis yang cantik, dan entah kenapa mereka menjadi sangat posesif. Berawal dari reuni, kisah romcom remaja yang dikejar oleh tiga saudari cantik pun dimulai !",
+    "chapter": [
+      {
+        "id": 1,
+        "title": "Chapter 1",
+        "pages": [
+          "assets/images/manga/dnkusbs/chapter1/1.jpg",
+          "assets/images/manga/dnkusbs/chapter1/2.jpg",
+          "assets/images/manga/dnkusbs/chapter1/3.jpg",
+          "assets/images/manga/dnkusbs/chapter1/4.jpg",
+          "assets/images/manga/dnkusbs/chapter1/5.jpg"
+        ]
+      }
+    ]
+  }
+]
